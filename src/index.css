@@ -75,6 +75,8 @@ body {
   border: 1px double black;
   border-radius: 100%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  height: auto;
+  width: 80%;
 }
 
 
@@ -166,6 +168,10 @@ body {
     margin: 3em auto;
     font-size: 1.25em;
     padding-top: 2em;
+  }
+
+  .hero-img{
+    width: 40%;
   }
 
 }

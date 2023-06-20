@@ -1,4 +1,4 @@
-import mypicture from './me.png'
+import mypicture from './hero-picture.png'
 
 function Hero(){
     return (
