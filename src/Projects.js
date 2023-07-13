@@ -6,17 +6,17 @@ function Projects(){
             <div className="projects">
 
                 <div className="project">
-                    <h3>INDStock</h3>
-                    <p>Inventory Management App for Stores using NodeJS and EJS</p>
-                    <button><a href="https://indstock.herokuapp.com/">Demo</a></button>
-                    <button><a href="https://github.com/AyushKishor/INDStock">GitHub</a></button>
-                </div>
-
-                <div className="project">
                     <h3>Workout Tracker Web App</h3>
                     <p>Workout Logging App using MERN Stack</p>
                     <button><a href="https://github.com/AyushKishor/workout-app">Demo</a></button>
                     <button><a href="https://github.com/AyushKishor/workout-app">GitHub</a></button>
+                </div>
+
+                <div className="project">
+                    <h3>INDStock</h3>
+                    <p>Inventory Management App for Stores using NodeJS and EJS</p>
+                    <button><a href="https://indstock.herokuapp.com/">Demo</a></button>
+                    <button><a href="https://github.com/AyushKishor/INDStock">GitHub</a></button>
                 </div>
 
                 <div className="project">
